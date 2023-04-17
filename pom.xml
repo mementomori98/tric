@@ -13,7 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>TricProject</name>
     <description>TricProject</description>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
     <properties>
         <java.version>17</java.version>
         <weka.version>3.8.6</weka.version>
